@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="acf9882d-4c71-47c5-a450-0e3993b87a8d" name="Default Changelist" comment="" />
+    <list default="true" id="acf9882d-4c71-47c5-a450-0e3993b87a8d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,10 +12,14 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1Y8CmGsrQdoboIBmcWuYNCIzCJ7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -44,9 +50,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="360" y="187" width="1071" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582348983648">
-      <screen x="0" y="23" width="1792" height="998" />
+    <state x="360" y="185" width="1071" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582911724462">
+      <screen x="0" y="23" width="1792" height="984" />
     </state>
+    <state x="360" y="185" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.984@0.23.1792.984" timestamp="1582911724462" />
     <state x="360" y="186" width="1071" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.994@0.23.1792.994" timestamp="1582348238641" />
     <state x="360" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.998@0.23.1792.998" timestamp="1582348983648" />
     <state x="688" y="447" width="418" height="154" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1582348167279">
@@ -57,5 +64,13 @@
       <screen x="0" y="23" width="1792" height="994" />
     </state>
     <state x="729" y="420" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1792.994@0.23.1792.994" timestamp="1582348124846" />
+    <state x="584" y="259" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1582911405718">
+      <screen x="0" y="23" width="1792" height="984" />
+    </state>
+    <state x="584" y="259" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1792.984@0.23.1792.984" timestamp="1582911405718" />
+    <state x="551" y="279" width="711" height="472" key="find.popup" timestamp="1582911634700">
+      <screen x="0" y="23" width="1792" height="984" />
+    </state>
+    <state x="551" y="279" width="711" height="472" key="find.popup/0.23.1792.984@0.23.1792.984" timestamp="1582911634700" />
   </component>
 </project>
